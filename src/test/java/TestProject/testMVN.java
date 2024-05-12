@@ -1,5 +1,6 @@
 package TestProject;
 
+import org.testng.annotations.Test;
 import java.time.Duration;
 
 import org.openqa.selenium.By;
